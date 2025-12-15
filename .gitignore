@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+ENV/
+
+# Data / models
+/ksl_g/data/
+/ksl_g/models/
+
+# OS / editor
+.DS_Store
+
+# Core dumps
+core
+core.*
